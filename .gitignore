@@ -3,3 +3,6 @@
 
 # all pdf
 *.pdf
+
+# all zip
+*.zip
