@@ -1,0 +1,5 @@
+# all csv files
+*.csv
+
+# all pdf
+*.pdf
