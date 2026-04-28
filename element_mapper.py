@@ -1,7 +1,12 @@
 # processors/element_mapper.py
-# add a new line
 import json
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> ac90271999d341bade650c74d36ae606fbbe75ce
 import datetime
 
 from pathlib import Path
